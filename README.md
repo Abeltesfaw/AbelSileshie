@@ -1,1 +1,1 @@
-Hello I am A student Learning React And on the journey to become a Full-stack developer
+Interested in Knowing More About Front-end Development 
